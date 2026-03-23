@@ -39,8 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lana-alghobari&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lana-alghobari&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=lana-alghobari&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lana-alghobari&radius=25&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="276" alt="activity-graph graph"  />
 </div>
 
 ###
